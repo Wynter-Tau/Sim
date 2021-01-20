@@ -1,4 +1,6 @@
 public class Main {
+
+    Board board;
   
     public static void main(String[] args) {
     
